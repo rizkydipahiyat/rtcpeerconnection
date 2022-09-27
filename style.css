@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+@media screen and (max-width: 480px) {
+    video {
+        width: 480px;
+    }
+  }
+@media screen and (max-width: 992px) {
+    video {
+        width: 480px;
+    }
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (max-width: 1280px) {
+    video {
+        width: 480px;
+    }
+  }
